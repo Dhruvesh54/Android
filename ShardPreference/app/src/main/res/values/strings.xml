@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShardPreference</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="subimt">Subimt</string>
+    <string name="ente_email">Ente Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>

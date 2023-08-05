@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
                 intent.setData(Uri.parse("tel:"+number));
                 startActivity(intent);
+
             }
         });
     }
