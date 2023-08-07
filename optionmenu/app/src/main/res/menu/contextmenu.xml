@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opblue"
+        android:title="BLUE"/>
+
+    <item
+        android:id="@+id/opblack"
+        android:title="BLACK"/>
+    <item
+        android:id="@+id/opreset"
+        android:title="RESET"/>
+
+</menu>

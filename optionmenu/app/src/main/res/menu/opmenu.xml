@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/red"
+        android:title="RED">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item
+                android:id="@+id/yellow"
+                android:title="YELLOW"/>
+
+            <item
+                android:id="@+id/gray"
+                android:title="GRAY"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/blue"
+        android:title="BLUE"/>
+
+    <item
+        android:id="@+id/black"
+        android:title="BLACK"/>
+    <item
+        android:id="@+id/reset"
+        android:title="RESET"/>
+
+
+</menu>
